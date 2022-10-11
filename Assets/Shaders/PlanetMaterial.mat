@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PlanetMaterial
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: 36e19f09783203848a27a5dbff4909d8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -65,16 +65,24 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Height: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
+    - _Offset: 0.1
     - _Parallax: 0.02
+    - _Seed: 3016
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _Step1: 0.453
+    - _Step2: 0.727
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.5050285, g: 0.9150943, b: 0.8782996, a: 1}
+    - _Color1: {r: 0.053800307, g: 0.3454951, b: 0.8773585, a: 1}
+    - _Color2: {r: 0.09064613, g: 0.9150943, b: 0.15173972, a: 1}
+    - _Color3: {r: 0.6886792, g: 0.373576, b: 0.373576, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
